@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anirban/static/css/main.1cdbf67e.css",
+    "main.js": "/Anirban/static/js/main.ef6b0354.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Anirban/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Anirban/index.html",
+    "main.1cdbf67e.css.map": "/Anirban/static/css/main.1cdbf67e.css.map",
+    "main.ef6b0354.js.map": "/Anirban/static/js/main.ef6b0354.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Anirban/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdbf67e.css",
+    "static/js/main.ef6b0354.js"
+  ]
+}
